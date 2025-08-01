@@ -19,7 +19,7 @@ The agent understands user preferences (destination, budget, duration, travel st
 | **IBM Cloudant NoSQL Database**         | Store user profiles, preferences, and trip history (optional)    |
 | **IBM Weather Company API**             | Real-time weather updates for destinations                      |
 | **IBM App Connect (Optional)**          | Integration with external transport & accommodation APIs         |
-| **Python 3.10 + FastAPI (Optional)**    | For backend microservices logic (if required)                    |
+
 
 ---
 
@@ -53,15 +53,6 @@ This Travel Planner Agent was built using **IBM Watsonx.ai Agentic Lab**:
 
 
 ---
-
-## Deliverables in this Repository
-- IBM Watsonx Prompt Instruction Files.
-- Screenshots of AI Agent Outputs.
-- Project PPT Presentation.
-- (Optional) Backend logic files (if applicable).
-
----
-
 
 ## References
 - IBM Watsonx.ai Documentation
