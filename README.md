@@ -44,9 +44,13 @@ This Travel Planner Agent was built using **IBM Watsonx.ai Agentic Lab**:
 ---
 
 ## Demo Screenshots
-<img width="929" height="514" alt="image" src="https://github.com/user-attachments/assets/b14b0072-e3e5-4b29-85cf-327f0fa328d4" />
-<img width="502" height="395" alt="image" src="https://github.com/user-attachments/assets/d2342394-c8a4-402f-a22f-2f560920183e" />
-<img width="567" height="478" alt="image" src="https://github.com/user-attachments/assets/1533e17d-a9e2-4dc4-8f82-fb7849cc2260" />
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/0f020863-7699-4dab-8df2-f8c1692f2237" />
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/537b0ab1-5cdf-4d83-b13e-972c4cd065c2" />
+
+<img width="1914" height="894" alt="image" src="https://github.com/user-attachments/assets/0f654812-5625-45b6-8ad4-529d5e3b3fd7" />
+
+
 
 ---
 
