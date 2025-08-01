@@ -16,7 +16,6 @@ The agent understands user preferences (destination, budget, duration, travel st
 | **IBM Watsonx.ai Agentic Lab**          | Building, configuring, and deploying the AI Agent                |
 | **IBM Granite LLM**                     | Natural Language Understanding & Itinerary Generation           |
 | **IBM Cloud Functions (Lite Plan)**     | Backend orchestration (optional if API-based workflows are needed)|
-| **IBM Cloudant NoSQL Database**         | Store user profiles, preferences, and trip history (optional)    |
 | **IBM Weather Company API**             | Real-time weather updates for destinations                      |
 
 
