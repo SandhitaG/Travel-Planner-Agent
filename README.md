@@ -18,7 +18,6 @@ The agent understands user preferences (destination, budget, duration, travel st
 | **IBM Cloud Functions (Lite Plan)**     | Backend orchestration (optional if API-based workflows are needed)|
 | **IBM Cloudant NoSQL Database**         | Store user profiles, preferences, and trip history (optional)    |
 | **IBM Weather Company API**             | Real-time weather updates for destinations                      |
-| **IBM App Connect (Optional)**          | Integration with external transport & accommodation APIs         |
 
 
 ---
